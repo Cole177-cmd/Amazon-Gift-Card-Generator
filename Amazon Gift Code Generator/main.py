@@ -8,7 +8,8 @@ def g(choice):
         result = result + c
         choice=choice-1
     return result
-print("How many codes to be genrated ?")
+print(500 
+  )
 number = input(">")
 print("")
 n = int(number)
